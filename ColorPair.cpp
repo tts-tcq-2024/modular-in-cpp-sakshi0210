@@ -1,4 +1,4 @@
-#include 'ColorPair.h'
+#include "ColorPair.h"
 #include <sstream>
 
 namespace TelCoColorCoder {
